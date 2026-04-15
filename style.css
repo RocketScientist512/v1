@@ -12,6 +12,11 @@
 *::after {
   box-sizing: border-box;
 }
+.main_nav {
+    display:flex;
+    justify-content:space-around;
+    margin-top:2%;
+}
 
 body {
   font-family: 'Poppins', sans-serif;
